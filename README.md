@@ -14,3 +14,10 @@ Beleza - Barbearia
 
 # Nome da empresa
 Tech Barber's
+
+# Serviços prestados e tecnolgias utilizadas
+Cadastro de usuários - Implementando banco de dados.
+Avaliação dos profissionais - Utilizando a linguagem de programação Python.
+Escolha e agendamento de serviço - Utilizando IA (Machine Learning).
+Localização geográfica - Rede de Computadores.
+Informações sobre a empresa prestadora de serviço, como meios de pagamento e serviços prestados - Seguindo as normas de Segurança da Informação.
