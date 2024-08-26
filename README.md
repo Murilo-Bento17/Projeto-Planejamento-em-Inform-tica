@@ -1,2 +1,2 @@
-# Projeto-Planejamento-em-Inform-tica
+# Projeto-Planejamento-em-Informática
 Criação de projeto prático
